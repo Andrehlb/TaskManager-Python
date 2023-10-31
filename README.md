@@ -65,4 +65,4 @@ E então abra o arquivo do projeto no Jupyter Notebook e execute as células.
 
 ---
 
-Espero que isso te ajude a acelerar o processo! 🤙🌈
+🤙🌈
