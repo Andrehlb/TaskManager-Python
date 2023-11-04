@@ -66,3 +66,11 @@ E então abra o arquivo do projeto no Jupyter Notebook e execute as células.
 ---
 
 🤙🌈
+
+## Contribuições
+
+Este projeto está aberto para contribuições. Sinta-se à vontade para abrir uma nova issue ou enviar um pull request.
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [License.md](https://github.com/Andrehlb/TaskManager-Python/blob/fd099966bd28a780ae8c39fcbb4ac357f10f3b4b/License.md) para mais informações.
