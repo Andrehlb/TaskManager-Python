@@ -9,5 +9,5 @@ def creart_task():
         pass
     return render_template('create_task.html    ')
 
-if __name__ == '__main__:
-app.run(debug=True)
+if __name__ == '__main__':
+    app.run(debug=True)
