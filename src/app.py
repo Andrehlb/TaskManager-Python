@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, flash
-from model import Task
-from yourdatabase import db_session
+from models import Task
+from database import db_session
 
 app = Flask(__name__)
 app.secret_key = 'sua_chave secreta_aqui'
