@@ -2,7 +2,11 @@
 
 <h2> Descrição do Projeto </h2>
 
-Este projeto é um aplicativo de gerenciamento de tarefas desenvolvido em Python. O aplicativo permite que os usuários:
+Este projeto é um projeto de desenvolvimento de software, focado em criar um aplicativo de gerenciamento de tarefas deficiente.
+
+Utilizando a linguagem Python, o projeto visa oferecer uma solução intuitiva que seja prática para o controle e organização de tarefas diárias.
+
+Através deste aplicativo, os usuários poderão utiliar diversas operações, relacionadas ao gerenciamento de tarefas, como: criação, visualização, edição e exclusão de tarefas.
 
 <ul>
   <li>Cadastrem tarefas com descrição e data de vencimento.</li>
